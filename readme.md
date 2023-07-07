@@ -1,2 +1,2 @@
-# electron-openai-chatgpt-study
+# electron-openai-chatgpt-personal
 ![](readme_files/1.jpg)
